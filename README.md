@@ -1,4 +1,4 @@
-### Hi there I'm Andres - Webdeveloper 👋 ### 
+### Hi there I'm Andres - Web Developer 👋 ### 
 
 
 - 🔭 I’m currently working on my own Portofolio and Freelance Projects.
@@ -14,7 +14,7 @@
 
 - 📝 Keep Your Memories Notes App: https://github.com/andrustn85/Keepmemorynotes
 
-💬 Certificates
+🏆 Certificates
 
   - FreeCodeCamp Web Responsive Design: https://www.freecodecamp.org/certification/andrustn/responsive-web-design
   - Scrimba Javascript Bootcamp: https://scrimba.com/certificate/uWKx6Gt6/gjavascript
