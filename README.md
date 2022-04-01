@@ -16,6 +16,7 @@
 
 🏆 Certificates
 
-  - FreeCodeCamp Web Responsive Design: https://www.freecodecamp.org/certification/andrustn/responsive-web-design
+  - FreeCodeCamp Responsive Web Design: https://www.freecodecamp.org/certification/andrustn/responsive-web-design (300 Hours)
   - Scrimba Javascript Bootcamp: https://scrimba.com/certificate/uWKx6Gt6/gjavascript
   - FreeCodeCamp Javascript: 
+  - 
