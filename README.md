@@ -16,7 +16,8 @@
 
 🏆 Certificates
 
+  - Udemy Professional Web Design: https://www.udemy.com/certificate/UC-5fd73593-f3ab-44f2-a3f3-542cb87e8f37/  (42 Hours)
   - FreeCodeCamp Responsive Web Design: https://www.freecodecamp.org/certification/andrustn/responsive-web-design (300 Hours)
   - Scrimba Javascript Bootcamp: https://scrimba.com/certificate/uWKx6Gt6/gjavascript
-  - FreeCodeCamp Javascript: 
-  - 
+  - FreeCodeCamp Javascript Algorithms and Data Sctructue : ( In progress ) 
+  - Scrimba Frontend Developer Career Path: ( In progress )
