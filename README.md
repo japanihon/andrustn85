@@ -19,14 +19,8 @@
 
 🏆 Certificates
 
-  - Udemy Professional Web Design: https://www.udemy.com/certificate/UC-5fd73593-f3ab-44f2-a3f3-542cb87e8f37/  (42 Hours)
-  - FreeCodeCamp Responsive Web Design: https://www.freecodecamp.org/certification/andrustn/responsive-web-design (300 Hours)
+  - Udemy Professional Web Design: https://www.udemy.com/certificate/UC-5fd73593-f3ab-44f2-a3f3-542cb87e8f37/  ( 42 Hours )
+  - FreeCodeCamp Responsive Web Design: https://www.freecodecamp.org/certification/andrustn/responsive-web-design ( 300 Hours )
   - Scrimba Javascript Bootcamp: https://scrimba.com/certificate/uWKx6Gt6/gjavascript
-  - FreeCodeCamp Javascript Algorithms and Data Sctructue : ( In progress ) 
+  - FreeCodeCamp Javascript Algorithms and Data Sctructue : https://www.freecodecamp.org/certification/andrustn/javascript-algorithms-and-data-structures ( 300 Hours )
   - Scrimba Frontend Developer Career Path: ( In progress )
-
-<li class="social-list__item">
-                <a class="social-list__link" href="https://www.instagram.com/andrustn/" target="_blank"
-                    rel="noopener noreferrer">
-                    <i class="fab fa-instagram"></i>
-                </a>
