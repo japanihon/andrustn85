@@ -6,6 +6,9 @@
 - � I’m looking to collaborate on new projects to reinforce my coding skills.
 - 👾 I’m looking for help with HTML, CSS and Javascript.
 - ✈️ I’m interested in Trips, Explore and learn new stuffs.
+
+ Social Media
+
 - 📫 How to reach me: rustandres@gmail.com
 
  💾 Projects
@@ -21,3 +24,9 @@
   - Scrimba Javascript Bootcamp: https://scrimba.com/certificate/uWKx6Gt6/gjavascript
   - FreeCodeCamp Javascript Algorithms and Data Sctructue : ( In progress ) 
   - Scrimba Frontend Developer Career Path: ( In progress )
+
+<li class="social-list__item">
+                <a class="social-list__link" href="https://www.instagram.com/andrustn/" target="_blank"
+                    rel="noopener noreferrer">
+                    <i class="fab fa-instagram"></i>
+                </a>
