@@ -12,7 +12,7 @@
 
 - 💻 Portfolio Website: https://devandres.netlify.app/index.html
 
-- 📝 Keep Your Memories Notes App: https://github.com/andrustn85/Keepmemorynotes
+- 📝 Keep Your Memories Notes App: https://memorynotapp.herokuapp.com/
 
 🏆 Certificates
 
