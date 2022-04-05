@@ -24,3 +24,5 @@
   - Scrimba Javascript Bootcamp: https://scrimba.com/certificate/uWKx6Gt6/gjavascript
   - FreeCodeCamp Javascript Algorithms and Data Sctructue : https://www.freecodecamp.org/certification/andrustn/javascript-algorithms-and-data-structures ( 300 Hours )
   - Scrimba Frontend Developer Career Path: ( In progress )
+
+<a href="www.google.com">Go to Google</a>
