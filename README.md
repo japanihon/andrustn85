@@ -23,6 +23,7 @@
   - FreeCodeCamp Responsive Web Design: https://www.freecodecamp.org/certification/andrustn/responsive-web-design ( 300 Hours )
   - Scrimba Javascript Bootcamp: https://scrimba.com/certificate/uWKx6Gt6/gjavascript
   - FreeCodeCamp Javascript Algorithms and Data Sctructue : https://www.freecodecamp.org/certification/andrustn/javascript-algorithms-and-data-structures ( 300 Hours )
+  - <a href="https://www.freecodecamp.org/certification/andrustn/javascript-algorithms-and-data-structures" > FreeCodeCamp Javascript Algorithms and Data Sctructue <span> ( 300 Hours ) </span> </a>
   - Scrimba Frontend Developer Career Path: ( In progress )
 
 <a href="www.google.com">Go to Google</a>
