@@ -19,6 +19,7 @@
 
 🏆 Certificates
 
+  - <p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer"> freeCodeCamp </a>.</p>
   - <p> <a href="https://www.udemy.com/certificate/UC-5fd73593-f3ab-44f2-a3f3-542cb87e8f37/" target="_blank" rel="noopener noreferrer">  Udemy Professional Web Design: ( 42 Hours ) </a> </p>
   -  <a href="https://www.freecodecamp.org/certification/andrustn/responsive-web-design" target="_blank" rel="noopener noreferrer"> FreeCodeCamp Responsive Web Design: ( 300 Hours ) </a>
   - <a href="https://scrimba.com/certificate/uWKx6Gt6/gjavascript" target="_blank" rel="noopener noreferrer"> Scrimba Javascript Bootcamp </a>
