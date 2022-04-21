@@ -17,13 +17,15 @@
 
 - <a href="https://memorynotapp.herokuapp.com/" target="_blank" rel="noopener noreferrer" > 📝 Keep Your Memories Notes App </a>
 
+- <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos" target="_blank" rel="noopener noreferrer" > 📸 Image Search Engineering </a>
+
 🏆 Certificates
 
   - <a href="https://www.udemy.com/certificate/UC-5fd73593-f3ab-44f2-a3f3-542cb87e8f37/" target="_blank" rel="noopener noreferrer">  Udemy Professional Web Design: ( 42 Hours ) </a> 
   -  <a href="https://www.freecodecamp.org/certification/andrustn/responsive-web-design" target="_blank" rel="noopener noreferrer"> FreeCodeCamp Responsive Web Design: ( 300 Hours ) </a>
   - <a href="https://scrimba.com/certificate/uWKx6Gt6/gjavascript" target="_blank" rel="noopener noreferrer"> Scrimba Javascript Bootcamp </a>
   - <a href="https://www.freecodecamp.org/certification/andrustn/javascript-algorithms-and-data-structures" target="_blank" rel="noopener noreferrer"> FreeCodeCamp Javascript Algorithms and Data Sctructue ( 300 Hours ) </a>
-  - <a href="" > VS School - Coding Bootcamp ( In progress ) </a>
+  - <a href="" > VS School - Coding Bootcamp ( Finish ) </a>
   - <a href="" > Scrimba Frontend Developer Career Path: ( In progress ) </a>
 
 Profile and Skills
