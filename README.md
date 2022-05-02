@@ -28,6 +28,19 @@
   - <a href="" > VS School - Coding Bootcamp ( Finish ) </a>
   - <a href="" > Scrimba Frontend Developer Career Path: ( In progress ) </a>
 
-Profile and Skills
+Work Profile - Frontend Skills
 
+ * HTML | Semantic elements | Forms | Metadata | Stattic Websites
 
+ * CSS | The box model  | Positioning  | Responsive Web Design | Animation basics | Grid | Flex | Pseudo-classes
+
+* JavaScript | Functions | Pass by value vs. pass by reference | Values, types, and basic operators | Truthiness and it’s quirks | DOM Manipulation |
+ | Data structures | Methods
+
+* API's| API Requests | Promises and asynchronous programming | Apis | 
+
+* React | Virtual DOM | JSX | Props | State | Lifecycle methods and/or Hooks | Class-based components vs functional components | Context API
+
+* Tools | Git | GitHub (forking, pull requests) | NodeJS | Chrome Developer Tools | Website Deployment |  Visual Studio Code |
+
+* Data structures and algorithms | Recursion and call stack
