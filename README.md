@@ -32,12 +32,12 @@ Work Profile - Frontend Skills
 
  * HTML | Semantic elements | Forms | Metadata | Stattic Websites
 
- * CSS | The box model  | Positioning  | Responsive Web Design | Animation basics | Grid | Flex | Pseudo-classes
+ * CSS | The box model  | Positioning  | Responsive Web Design | Animation basics | CSS Grid | Flexbox | Pseudo-classes
 
 * JavaScript | Functions | Pass by value vs. pass by reference | Values, types, and basic operators | Truthiness and it’s quirks | DOM Manipulation |
  | Data structures | Methods
 
-* API's| API Requests | Promises and asynchronous programming | Apis | 
+* API's| API Requests | Promises and asynchronous programming | Apis DOM Manipulation | 
 
 * React | Virtual DOM | JSX | Props | State | Lifecycle methods and/or Hooks | Class-based components vs functional components | Context API
 
