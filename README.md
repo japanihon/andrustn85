@@ -29,7 +29,7 @@
 
 🏆 Certificates
 
-  - <a href="[https://www.udemy.com/certificate/UC-5fd73593-f3ab-44f2-a3f3-542cb87e8f37/](https://www.udemy.com/certificate/UC-93bdd64a-c2fb-4a0c-9347-082f01eb919b/)" target="_blank" rel="noopener noreferrer">  The Complete JavaScript Course 2022 ( 69 Hours ) </a> 
+  - <a href="https://www.udemy.com/certificate/UC-5fd73593-f3ab-44f2-a3f3-542cb87e8f37/" target="_blank" rel="noopener noreferrer">  The Complete JavaScript Course 2022 ( 69 Hours ) </a> 
  
   -  <a href="https://www.freecodecamp.org/certification/andrustn/responsive-web-design" target="_blank" rel="noopener noreferrer"> FreeCodeCamp Responsive Web Design: ( 300 Hours ) </a>
  
