@@ -19,11 +19,11 @@
 
 - <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos" target="_blank" rel="noopener noreferrer" > 📸 Image Search Engineering </a>
 
-- <a href="[[[https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/culture%20blog/)](https://devandres.netlify.app/culture%20blog/)"](https://devandres.netlify.app/color%20generator/)" target="_blank" rel="noopener noreferrer" > Culture Blog 💻 </a>
+- <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/culture%20blog/))" target="_blank" rel="noopener noreferrer" > Culture Blog 💻 </a>
 
-- <a href="[https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/guess%20my%20number/)" target="_blank" rel="noopener noreferrer" > Guess My Number App ? </a>
+- <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/guess%20my%20number/)" target="_blank" rel="noopener noreferrer" > Guess My Number App ? </a>
 
-- <a href="[https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/p%20game/)" target="_blank" rel="noopener noreferrer" > JS Game 🎲 </a>
+- <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/p%20game/)" target="_blank" rel="noopener noreferrer" > JS Game 🎲 </a>
 
 
 
