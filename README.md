@@ -19,16 +19,27 @@
 
 - <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos" target="_blank" rel="noopener noreferrer" > 📸 Image Search Engineering </a>
 
+- <a href="[[[https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/culture%20blog/)](https://devandres.netlify.app/culture%20blog/)"](https://devandres.netlify.app/color%20generator/)" target="_blank" rel="noopener noreferrer" > Culture Blog 💻 </a>
+
+- <a href="[https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/guess%20my%20number/)" target="_blank" rel="noopener noreferrer" > Guess My Number App ? </a>
+
+- <a href="[https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/p%20game/)" target="_blank" rel="noopener noreferrer" > JS Game 🎲 </a>
+
+
+
 🏆 Certificates
 
-  - <a href="https://www.udemy.com/certificate/UC-5fd73593-f3ab-44f2-a3f3-542cb87e8f37/" target="_blank" rel="noopener noreferrer">  Udemy Professional Web Design: ( 42 Hours ) </a> 
+  - <a href="[https://www.udemy.com/certificate/UC-5fd73593-f3ab-44f2-a3f3-542cb87e8f37/](https://www.udemy.com/certificate/UC-93bdd64a-c2fb-4a0c-9347-082f01eb919b/)" target="_blank" rel="noopener noreferrer">  The Complete JavaScript Course 2022 ( 69 Hours ) </a> 
+ 
   -  <a href="https://www.freecodecamp.org/certification/andrustn/responsive-web-design" target="_blank" rel="noopener noreferrer"> FreeCodeCamp Responsive Web Design: ( 300 Hours ) </a>
+ 
   - <a href="https://scrimba.com/certificate/uWKx6Gt6/gjavascript" target="_blank" rel="noopener noreferrer"> Scrimba Javascript Bootcamp </a>
+ 
   - <a href="https://www.freecodecamp.org/certification/andrustn/javascript-algorithms-and-data-structures" target="_blank" rel="noopener noreferrer"> FreeCodeCamp Javascript Algorithms and Data Sctructue ( 300 Hours ) </a>
-  - <a href="" > VS School - Coding Bootcamp ( Finish ) </a>
-  - <a href="" > Scrimba Frontend Developer Career Path: ( In progress ) </a>
+ 
+  - <a href="https://scrimba.com/certificate/uWKx6Gt6/gfrontend" > Scrimba Frontend Developer Career Path: ( 80 Hours Program ) </a>
 
-Work Profile - Frontend Skills
+ 🗄 Dev Skills
 
  * HTML | Semantic elements | Forms | Metadata | Stattic Websites
 
@@ -37,7 +48,7 @@ Work Profile - Frontend Skills
 * JavaScript | Functions | Pass by value vs. pass by reference | Values, types, and basic operators | Truthiness and it’s quirks | DOM Manipulation |
  | Data structures | Methods
 
-* API's| API Requests | Promises and asynchronous programming | Apis DOM Manipulation | 
+* API Rest | Promises and asynchronous programming | Apis DOM Manipulation | 
 
 * React | Virtual DOM | JSX | Props | State | Lifecycle methods and/or Hooks | Class-based components vs functional components | Context API
 
