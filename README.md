@@ -1,11 +1,9 @@
 ### Hi there I'm Andres - Frontend Developer 👋 ### 
 
-
-- 🔭 I’m currently working on my own Portofolio and Freelance Projects.
-- 📇 I’m currently learning Javascript and Basic React.
+- 📇 I’m currently learning React.
 - � I’m looking to collaborate on new projects to reinforce my coding skills.
-- 👾 I’m looking for help with HTML, CSS and Javascript.
-- ✈️ I’m interested in Trips, Explore and learn new stuffs.
+- 👾 I’m looking for help with HTML, CSS, Javascript and REACT.js projects.
+- ✈️ I’m interested in learn more about Programming, make new products and learn new stuffs.
 
  📲 Social Media
 
