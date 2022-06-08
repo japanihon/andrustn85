@@ -1,6 +1,6 @@
 ### Hi there I'm Andres - Frontend Developer 👋 ### 
 
-- 📇 I’m currently learning React.
+- 📇 I’m currently learning React ⚛⚛️ 
 - � I’m looking to collaborate on new projects to reinforce my coding skills.
 - 👾 I’m looking for help with HTML, CSS, Javascript and REACT.js projects.
 - ✈️ I’m interested in learn more about Programming, make new products and learn new stuffs.
