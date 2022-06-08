@@ -25,6 +25,8 @@
 
 - <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/p%20game/)" target="_blank" rel="noopener noreferrer" > JS Game 🎲 </a>
 
+- <a href="https://rpg-tau.vercel.app/" target="_blank" rel="noopener noreferrer" > Password Generator 🔐 </a>
+
 
 
 🏆 Certificates
