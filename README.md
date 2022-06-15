@@ -28,7 +28,7 @@
 - <a href="https://andrustn85.github.io/review-app/" target="_blank" rel="noopener noreferrer" > React Review App 📥 </a>
 
 
-- <a href=https://andrustn85.github.io/react-calculator/" target="_blank" rel="noopener noreferrer" > React Calculator 🧮 </a>
+- <a href="https://andrustn85.github.io/react-calculator/" target="_blank" rel="noopener noreferrer" > React Calculator 🧮 </a>
 
 
 🏆 Certificates
