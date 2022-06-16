@@ -30,6 +30,8 @@
 
 - <a href="https://andrustn85.github.io/react-calculator/" target="_blank" rel="noopener noreferrer" > React Calculator 🧮 </a>
 
+- <a href="https://andrustn85.github.io/unit-converter/" target="_blank" rel="noopener noreferrer" > Unit Converter 🧮 </a>
+
 
 🏆 Certificates
 
