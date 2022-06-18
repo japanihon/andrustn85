@@ -32,7 +32,7 @@
 
 - <a href="https://andrustn85.github.io/unit-converter/" target="_blank" rel="noopener noreferrer" > Unit Converter 🧮 </a>
 
-- <a href="https://api-dashboard-iota.vercel.app/" target="_blank" rel="noopener noreferrer" > Unit Converter 🧮 </a>
+- <a href="https://api-dashboard-iota.vercel.app/" target="_blank" rel="noopener noreferrer" > API Landscape Dashboard 🀧 </a>
 
 
 🏆 Certificates
