@@ -35,6 +35,9 @@
 - <a href="https://api-dashboard-iota.vercel.app/" target="_blank" rel="noopener noreferrer" > API Landscape Dashboard 🀧 </a>
 
 
+- <a href="https://minimalism-life.vercel.app/" target="_blank" rel="noopener noreferrer" > Minimalism Life ⽣ </a>
+
+
 🏆 Certificates
 
   - <a href="https://www.udemy.com/certificate/UC-93bdd64a-c2fb-4a0c-9347-082f01eb919b/" target="_blank" rel="noopener noreferrer">  The Complete JavaScript Course 2022 ( 69 Hours ) </a> 
